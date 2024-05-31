@@ -10,6 +10,7 @@
 
 ## Angular
 * [Angular Overview](https://angular.dev/overview)
+* [Angular CLI](https://angular.dev/tools/cli)
 * [Angular Essentials](https://angular.dev/essentials)
 * [Angular Tutorials](https://angular.dev/tutorials/learn-angular)
 
